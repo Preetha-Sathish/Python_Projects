@@ -25,34 +25,34 @@ Menu-driven CLI interface
 
 Store name, experience, and multiple skills.
 
-✔ 2. Add New Job Roles
+2. Add New Job Roles
 
 Store job title and required skills.
 
-✔ 3. Smart Skill Matching
+3. Smart Skill Matching
 
 Matches candidate skills with required skills.
 
-✔ 4. Match Percentage
+4. Match Percentage
 
 Calculated using shared skills.
 
-✔ 5. Top Candidate Recommendations
+5. Top Candidate Recommendations
 
 Automatically shows Top 3 best candidates for any job.
 
-✔ 6. Search Candidates by Skill
+6. Search Candidates by Skill
 
 Example: Search "python", get all Python developers.
 
-✔ 7. Update Candidate Skills
+7. Update Candidate Skills
 
 Modify existing candidate skills.
 
-✔ 8. Delete Candidate
+8. Delete Candidate
 
 Remove candidate from database.
 
-✔ 9. Clean & Simple Menu Interface
+9. Clean & Simple Menu Interface
 
 Easy navigation using a menu-driven program.
