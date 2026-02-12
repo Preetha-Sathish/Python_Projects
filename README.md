@@ -1,4 +1,4 @@
-Project Overview
+Project Overview:
 
 The Mini HR Hiring System is a Python + MySQL based application that helps companies find the best candidates for a job by matching skills using a rule-based algorithm.
 
